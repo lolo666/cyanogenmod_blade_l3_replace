@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<volumes version="3" primaryStorageUuid="primary_physical" forceAdoptable="false">
+<volume type="0" fsUuid="408D-9540" userFlags="3" createdMillis="1262304026227" lastTrimMillis="0" lastBenchMillis="0" />
+<volume type="0" fsUuid="2214-0B31" userFlags="0" createdMillis="1262304024199" lastTrimMillis="0" lastBenchMillis="0" />
+</volumes>
